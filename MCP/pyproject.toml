@@ -15,7 +15,8 @@ dependencies = [
     "python-dotenv (>=1.1.1,<2.0.0)",
     "uv (>=0.8.22,<0.9.0)",
     "ipykernel (>=6.30.1,<7.0.0)",
-    "notebook (>=7.4.7,<8.0.0)"
+    "notebook (>=7.4.7,<8.0.0)",
+    "groq (>=0.32.0,<0.33.0)"
 ]
 package-mode = false 
 
