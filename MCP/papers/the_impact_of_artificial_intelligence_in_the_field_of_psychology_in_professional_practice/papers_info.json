@@ -1,0 +1,73 @@
+{
+  "2308.15192v1": {
+    "title": "Enhancing Psychological Counseling with Large Language Model: A Multifaceted Decision-Support System for Non-Professionals",
+    "authors": [
+      "Guanghui Fu",
+      "Qing Zhao",
+      "Jianqiang Li",
+      "Dan Luo",
+      "Changwei Song",
+      "Wei Zhai",
+      "Shuo Liu",
+      "Fan Wang",
+      "Yan Wang",
+      "Lijuan Cheng",
+      "Juan Zhang",
+      "Bing Xiang Yang"
+    ],
+    "summary": "In the contemporary landscape of social media, an alarming number of users\nexpress negative emotions, some of which manifest as strong suicidal\nintentions. This situation underscores a profound need for trained\npsychological counselors who can enact effective mental interventions. However,\nthe development of these professionals is often an imperative but\ntime-consuming task. Consequently, the mobilization of non-professionals or\nvolunteers in this capacity emerges as a pressing concern. Leveraging the\ncapabilities of artificial intelligence, and in particular, the recent advances\nin large language models, offers a viable solution to this challenge. This\npaper introduces a novel model constructed on the foundation of large language\nmodels to fully assist non-professionals in providing psychological\ninterventions on online user discourses. This framework makes it plausible to\nharness the power of non-professional counselors in a meaningful way. A\ncomprehensive study was conducted involving ten professional psychological\ncounselors of varying expertise, evaluating the system across five critical\ndimensions. The findings affirm that our system is capable of analyzing\npatients' issues with relative accuracy and proffering professional-level\nstrategies recommendations, thereby enhancing support for non-professionals.\nThis research serves as a compelling validation of the application of large\nlanguage models in the field of psychology and lays the groundwork for a new\nparadigm of community-based mental health support.",
+    "pdf_url": "http://arxiv.org/pdf/2308.15192v1",
+    "published": "2023-08-29"
+  },
+  "2403.16008v1": {
+    "title": "CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering",
+    "authors": [
+      "Hongbin Na"
+    ],
+    "summary": "The recent advancements in artificial intelligence highlight the potential of\nlanguage models in psychological health support. While models trained on data\nfrom mental health service platform have achieved preliminary success,\nchallenges persist in areas such as data scarcity, quality, and ensuring a\nsolid foundation in psychological techniques. To address these challenges, this\nstudy introduces a novel approach to enhance the precision and efficacy of\npsychological support through large language models. Specifically, we design a\nspecific prompt derived from principles of Cognitive Behavioral Therapy (CBT)\nand have generated the CBT QA dataset, specifically for Chinese psychological\nhealth Q&A based on CBT structured intervention strategies. Unlike previous\nmethods, our dataset emphasizes professional and structured response. Utilizing\nthis dataset, we fine-tuned the large language model, giving birth to CBT-LLM,\nthe large-scale language model specifically designed for Cognitive Behavioral\nTherapy techniques. Empirical evaluations demonstrate that CBT-LLM excels in\ngenerating structured, professional, and highly relevant responses in\npsychological health support tasks, showcasing its practicality and quality.\nThe model is available on Hugging Face:\nhttps://huggingface.co/Hongbin37/CBT-LLM.",
+    "pdf_url": "http://arxiv.org/pdf/2403.16008v1",
+    "published": "2024-03-24"
+  },
+  "2412.03847v1": {
+    "title": "Educational-Psychological Dialogue Robot Based on Multi-Agent Collaboration",
+    "authors": [
+      "Shiwen Ni",
+      "Min Yang"
+    ],
+    "summary": "Intelligent dialogue systems are increasingly used in modern education and\npsychological counseling fields, but most existing systems are limited to a\nsingle domain, cannot deal with both educational and psychological issues, and\noften lack accuracy and professionalism when dealing with complex issues. To\naddress these problems, this paper proposes an intelligent dialog system that\ncombines educational and psychological counseling functions. The system\nconsists of multiple AI agent, including security detection agent, intent\nidentification agent, educational LLM agent, and psychological LLM agent, which\nwork in concert to ensure the provision of accurate educational knowledge Q\\&A\nand psychological support services. Specifically, the system recognizes\nuser-input intentions through an intention classification model and invokes a\nretrieval-enhanced educational grand model and a psychological grand model\nfine-tuned with psychological data in order to provide professional educational\nadvice and psychological support.",
+    "pdf_url": "http://arxiv.org/pdf/2412.03847v1",
+    "published": "2024-12-05"
+  },
+  "2311.09861v4": {
+    "title": "ConceptPsy:A Benchmark Suite with Conceptual Comprehensiveness in Psychology",
+    "authors": [
+      "Junlei Zhang",
+      "Hongliang He",
+      "Nirui Song",
+      "Zhanchao Zhou",
+      "Shuyuan He",
+      "Shuai Zhang",
+      "Huachuan Qiu",
+      "Anqi Li",
+      "Yong Dai",
+      "Lizhi Ma",
+      "Zhenzhong Lan"
+    ],
+    "summary": "The critical field of psychology necessitates a comprehensive benchmark to\nenhance the evaluation and development of domain-specific Large Language Models\n(LLMs). Existing MMLU-type benchmarks, such as C-EVAL and CMMLU, include\npsychology-related subjects, but their limited number of questions and lack of\nsystematic concept sampling strategies mean they cannot cover the concepts\nrequired in psychology. Consequently, despite their broad subject coverage,\nthese benchmarks lack the necessary depth in the psychology domain, making them\ninadequate as psychology-specific evaluation suite. To address this issue, this\npaper presents ConceptPsy, designed to evaluate Chinese complex reasoning and\nknowledge abilities in psychology. ConceptPsy includes 12 core subjects and\n1383 manually collected concepts. Specifically, we prompt GPT-4 to generate\nquestions for each concept using carefully designed diverse prompts and hire\nprofessional psychologists to review these questions. To help to understand the\nfine-grained performances and enhance the weaknesses, we annotate each question\nwith a chapter label and provide chapter-wise accuracy. Based on ConceptPsy, we\nevaluate a broad range of LLMs. We observe that, although some LLMs achieve\nsimilar accuracies on overall performances, they exhibit significant\nperformance variations across different psychology concepts, even when they are\nmodels from the same series. We hope our work can facilitate the development of\nLLMs in the field of psychology.",
+    "pdf_url": "http://arxiv.org/pdf/2311.09861v4",
+    "published": "2023-11-16"
+  },
+  "2302.10276v2": {
+    "title": "See Your Heart: Psychological states Interpretation through Visual Creations",
+    "authors": [
+      "Likun Yang",
+      "Xiaokun Feng",
+      "Xiaotang Chen",
+      "Shiyu Zhang",
+      "Kaiqi Huang"
+    ],
+    "summary": "In psychoanalysis, generating interpretations to one's psychological state\nthrough visual creations is facing significant demands. The two main tasks of\nexisting studies in the field of computer vision, sentiment/emotion\nclassification and affective captioning, can hardly satisfy the requirement of\npsychological interpreting. To meet the demands for psychoanalysis, we\nintroduce a challenging task, \\textbf{V}isual \\textbf{E}motion\n\\textbf{I}nterpretation \\textbf{T}ask (VEIT). VEIT requires AI to generate\nreasonable interpretations of creator's psychological state through visual\ncreations. To support the task, we present a multimodal dataset termed SpyIn\n(\\textbf{S}and\\textbf{p}la\\textbf{y} \\textbf{In}terpretation Dataset), which is\npsychological theory supported and professional annotated. Dataset analysis\nillustrates that SpyIn is not only able to support VEIT, but also more\nchallenging compared with other captioning datasets. Building on SpyIn, we\nconduct experiments of several image captioning method, and propose a\nvisual-semantic combined model which obtains a SOTA result on SpyIn. The\nresults indicate that VEIT is a more challenging task requiring scene graph\ninformation and psychological knowledge. Our work also show a promise for AI to\nanalyze and explain inner world of humanity through visual creations.",
+    "pdf_url": "http://arxiv.org/pdf/2302.10276v2",
+    "published": "2023-02-11"
+  }
+}

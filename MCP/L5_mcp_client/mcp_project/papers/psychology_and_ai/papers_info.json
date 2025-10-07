@@ -1,0 +1,28 @@
+{
+  "2302.09319v1": {
+    "title": "MAILS -- Meta AI Literacy Scale: Development and Testing of an AI Literacy Questionnaire Based on Well-Founded Competency Models and Psychological Change- and Meta-Competencies",
+    "authors": [
+      "Astrid Carolus",
+      "Martin Koch",
+      "Samantha Straka",
+      "Marc Erich Latoschik",
+      "Carolin Wienrich"
+    ],
+    "summary": "The goal of the present paper is to develop and validate a questionnaire to\nassess AI literacy. In particular, the questionnaire should be deeply grounded\nin the existing literature on AI literacy, should be modular (i.e., including\ndifferent facets that can be used independently of each other) to be flexibly\napplicable in professional life depending on the goals and use cases, and\nshould meet psychological requirements and thus includes further psychological\ncompetencies in addition to the typical facets of AIL. We derived 60 items to\nrepresent different facets of AI Literacy according to Ng and colleagues\nconceptualisation of AI literacy and additional 12 items to represent\npsychological competencies such as problem solving, learning, and emotion\nregulation in regard to AI. For this purpose, data were collected online from\n300 German-speaking adults. The items were tested for factorial structure in\nconfirmatory factor analyses. The result is a measurement instrument that\nmeasures AI literacy with the facets Use & apply AI, Understand AI, Detect AI,\nand AI Ethics and the ability to Create AI as a separate construct, and AI\nSelf-efficacy in learning and problem solving and AI Self-management. This\nstudy contributes to the research on AI literacy by providing a measurement\ninstrument relying on profound competency models. In addition, higher-order\npsychological competencies are included that are particularly important in the\ncontext of pervasive change through AI systems.",
+    "pdf_url": "http://arxiv.org/pdf/2302.09319v1",
+    "published": "2023-02-18"
+  },
+  "2507.22847v1": {
+    "title": "The Incomplete Bridge: How AI Research (Mis)Engages with Psychology",
+    "authors": [
+      "Han Jiang",
+      "Pengda Wang",
+      "Xiaoyuan Yi",
+      "Xing Xie",
+      "Ziang Xiao"
+    ],
+    "summary": "Social sciences have accumulated a rich body of theories and methodologies\nfor investigating the human mind and behaviors, while offering valuable\ninsights into the design and understanding of Artificial Intelligence (AI)\nsystems. Focusing on psychology as a prominent case, this study explores the\ninterdisciplinary synergy between AI and the field by analyzing 1,006\nLLM-related papers published in premier AI venues between 2023 and 2025, along\nwith the 2,544 psychology publications they cite. Through our analysis, we\nidentify key patterns of interdisciplinary integration, locate the psychology\ndomains most frequently referenced, and highlight areas that remain\nunderexplored. We further examine how psychology theories/frameworks are\noperationalized and interpreted, identify common types of misapplication, and\noffer guidance for more effective incorporation. Our work provides a\ncomprehensive map of interdisciplinary engagement between AI and psychology,\nthereby facilitating deeper collaboration and advancing AI systems.",
+    "pdf_url": "http://arxiv.org/pdf/2507.22847v1",
+    "published": "2025-07-30"
+  }
+}
