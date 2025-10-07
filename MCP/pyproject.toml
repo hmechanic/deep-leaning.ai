@@ -17,7 +17,9 @@ dependencies = [
     "ipykernel (>=6.30.1,<7.0.0)",
     "notebook (>=7.4.7,<8.0.0)",
     "groq (>=0.32.0,<0.33.0)",
-    "mcp (>=1.16.0,<2.0.0)"
+    "mcp (>=1.16.0,<2.0.0)",
+    "jupyter-contrib-nbextensions (>=0.7.0,<0.8.0)",
+    "jupyter-nbextensions-configurator (>=0.6.4,<0.7.0)"
 ]
 package-mode = false 
 
